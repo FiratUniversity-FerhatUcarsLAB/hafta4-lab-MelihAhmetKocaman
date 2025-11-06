@@ -6,7 +6,7 @@
  */
 
 import java.util.Scanner;
-public class gorev_2 {
+public class GeometrikHesap {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
