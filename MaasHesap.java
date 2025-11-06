@@ -6,7 +6,7 @@
  */
 
 import java.util.Scanner;
-public class gorev_3 {
+public class MaasHesap {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
