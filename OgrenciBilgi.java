@@ -1,13 +1,13 @@
 /*
- * Ad Soyad: Melih Ahmet Kocaman
- * Ogrenci No: 250541088
- * Tarih: 25/10/2025
- * Aciklama: Görev 1
+ * Ad Soyad: [Melih Ahmet Kocaman]
+ * Ogrenci No: [250541088]
+ * Tarih: [25/10/2025]
+ * Aciklama: [Görev 1]
  */
 
 
 import java.util.Scanner;
-public class gorev_1 {
+public class OgrenciBilgi {
     public static void main(String[] args) {
 
         //Değişkenler alınıyor
